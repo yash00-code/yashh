@@ -1,0 +1,6 @@
+2 catergiers of es5 statemnts
+1-functins statemnts
+2-functions expersiion
+3=annmoyuse functions
+4 -function with paramters
+5-functions with return
